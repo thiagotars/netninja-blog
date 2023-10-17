@@ -1,2 +1,2 @@
-# netninja-blog
-node, mongodb, mongoose course
+# server
+ node js course by net ninja
